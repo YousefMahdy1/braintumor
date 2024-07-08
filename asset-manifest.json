@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/braintumor/static/css/main.23dfa437.css",
+    "main.js": "/braintumor/static/js/main.75c2447e.js",
+    "static/media/logo.jpg": "/braintumor/static/media/logo.40f49deb95a48df55033.jpg",
+    "static/media/Doctors.png": "/braintumor/static/media/Doctors.d8c42ab10b23ebb52cf0.png",
+    "static/media/brain.png": "/braintumor/static/media/brain.8bda69bc9b1a9adb2b95.png",
+    "static/media/Thank you.png": "/braintumor/static/media/Thank you.44f3b538aeecfb47c5df.png",
+    "index.html": "/braintumor/index.html",
+    "main.23dfa437.css.map": "/braintumor/static/css/main.23dfa437.css.map",
+    "main.75c2447e.js.map": "/braintumor/static/js/main.75c2447e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23dfa437.css",
+    "static/js/main.75c2447e.js"
+  ]
+}
